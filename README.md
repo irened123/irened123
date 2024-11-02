@@ -5,7 +5,7 @@ I'm a second-year Computer Science student at Boston University. I am passionate
 
 - 🔭 **I’m currently working on**: integrating AI and ML techniques into various coding projects.
   
-- 🌱 **I’m currently learning**: Kubernetes, Flask, and scalable system design to build efficient and responsive applications end-to-end.
+- 🌱 **I’m currently learning**: Kubernetes, Flask, and scalable system design to build efficient and responsive applications.
   
 - 💬 **Ask me about**: my experience exploring frontend and backend development.
   
