@@ -2,11 +2,17 @@
 
 I'm a second-year Computer Science student at Boston University. I am passionate about software engineering, artificial intelligence, machine learning, and data science. 
 
-- 🔭 I’m currently working on: integrating AI and ML techniques into various coding projects. 
+
+- 🔭 I’m currently working on: integrating AI and ML techniques into various coding projects.
+  
 - 🌱 I’m currently learning: Kubernetes, Flask, and scalable system design to build efficient and responsive applications end-to-end.
-- 💬 Ask me about: my experience exploring frontend and backend development. 
+  
+- 💬 Ask me about: my experience exploring frontend and backend development.
+  
 - 📫 How to reach me: [irened@bu.edu](mailto:irened@bu.edu)
+  
 - 😄 Pronouns: she/her
+  
 - ⚡ Fun fact: I have a cat who’s convinced that my keyboard is the best place to nap.
 
 ---
@@ -51,3 +57,4 @@ I'm a second-year Computer Science student at Boston University. I am passionate
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+---
