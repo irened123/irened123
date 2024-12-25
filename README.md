@@ -5,7 +5,7 @@ I'm a second-year Computer Science student at Boston University. I am passionate
 
 - 🔭 **I’m currently working on**: integrating AI and ML techniques into various coding projects.
   
-- 🌱 **I’m currently learning**: Kubernetes, Flask, and scalable system design to build efficient and responsive applications.
+- 🌱 **I’m currently learning**: Kubernetes and scalable system design to build efficient and responsive applications.
   
 - 💬 **Ask me about**: my experience exploring frontend and backend development.
   
@@ -38,6 +38,7 @@ I'm a second-year Computer Science student at Boston University. I am passionate
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 #### Data Science and Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
