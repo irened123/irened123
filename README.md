@@ -48,6 +48,7 @@ I'm a second-year Computer Science student at Boston University. I am passionate
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-1A202C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 #### Tools and Platforms
