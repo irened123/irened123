@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Irene D.!
 
-I'm a second-year Computer Science student at Boston University. I am passionate about software development, artificial intelligence, machine learning, and data engineering. 
+I'm an incoming third-year Computer Science student at Boston University. I am passionate about software development, artificial intelligence, machine learning, and data engineering. 
 
 
 - 🔭 **I’m currently working on**: integrating AI and ML techniques into various coding projects.
