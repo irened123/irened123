@@ -1,19 +1,15 @@
 ## Hi there 👋 I'm Irene D.!
 
-I'm a third-year Computer Science student at Boston University. I am passionate about software development, artificial intelligence, machine learning, and data engineering. 
+I'm a third-year Computer Science student at Boston University. I am passionate about software development, artificial intelligence, and machine learning. 
 
 
 - 🔭 **I’m currently working on**: integrating AI and ML techniques into various coding projects.
   
 - 🌱 **I’m currently learning**: Kubernetes and scalable system design to build efficient and responsive applications.
   
-- 💬 **Ask me about**: my experience exploring frontend and backend development.
-  
 - 📫 **How to reach me**: [irened@bu.edu](mailto:irened@bu.edu)
   
 - 😄 **Pronouns**: she/her
-  
-- ⚡ **Fun fact**: I have a cat who’s convinced that my keyboard is the best place to nap.
 
 ---
 
@@ -24,7 +20,6 @@ I'm a third-year Computer Science student at Boston University. I am passionate 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-007ACC?style=flat)
 
